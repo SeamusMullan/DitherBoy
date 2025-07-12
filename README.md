@@ -8,7 +8,7 @@ Ditherboy is completely free and open source, but please consider supporting to 
 
 - Helping me develop DitherBoy and work on my hobbies
 - Buying me ~~coffee~~ Monster
-- Subscribing to my [Patreon](https://patreon.com/user?u=82913471&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+- Subscribing to my [Patreon](patreon.com/24carrrot)
 
 ## About
 
@@ -67,7 +67,7 @@ Follow KISS, DRY, SOLID, whatever. If it looks good, its probably good, and if i
 
 Obviously I don't get paid to exist or make this, since it's free. It would be super cool if you subscribed to the patreon though!
 
-[Patreon](https://patreon.com/user?u=82913471&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+[Patreon](patreon.com/24carrrot)
 
 I'm thinking about possibly adding early access builds to there or even something like a list of custom effects people can use.
 I don't wanna limit peoples art just because I wanna get paid though, so that's definitely not certain.
