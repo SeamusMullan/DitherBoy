@@ -35,12 +35,8 @@ npm run dev:backend
 
 ## Project Structure
 
-```
+```text
 ├── frontend/        # Electron/Vite frontend
 ├── backend/         # Python/FastAPI backend
 └── package.json     # Root package.json for scripts
 ```
-
-## License
-
-This project is licensed under the MIT License.
